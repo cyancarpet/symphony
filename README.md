@@ -8,8 +8,12 @@ The symphony between us: an interactive musical network-graph tool
 ## running locally
 `npm start`
 
+then open `localhost:3000`
+
 ## running in watch mode (for developing)
 `npm run dev` (will open two processes, one watching for server.js changes and the other watching for changes in src/index.js)
+
+then open `localhost:3000`
 
 ## where to edit things
 `server.js` serves our app, api, and static files
