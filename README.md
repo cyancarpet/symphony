@@ -7,7 +7,9 @@ The symphony between us: an interactive musical network-graph tool
 
 ## running locally
 `npm run build-frontend`
+
 `npm start`
+
 then open `localhost:3000`
 
 ## running in watch mode (for developing)
